@@ -1,10 +1,11 @@
 # BEM
 [Human]
-```.head__ears>head__ear--left-earring```
-```.hand__fingers.fingers>fingers*5>fingers__first--black-ring```
-```.lower-body__legs>legs__thigh>legs__thigh-left--tattoo```
+```.head>head__ears--left-earring```
+```.hand>fingers>fingers*5>fingers__first--black-ring```
+```.legs>legs__thigh>legs__thigh-left--tattoo```
 
 ![Header](images/header.jpg)
+```header.header>div.header__wrapper>svg.header__logo.logo>a.logo__link+()```
 
 ![form](images/form.jpg)
 
