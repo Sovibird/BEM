@@ -5,7 +5,7 @@
 ```.legs>legs__thigh>legs__thigh-left--tattoo```
 
 ![Header](images/header.jpg)
-```header.header>div.header__wrapper>svg.header__logo.logo>a.logo__link+()```
+```header.header>div.header__wrapper>svg.header__logo.logo>a.logo__link+(nav.header__navigation.navigation>ul.navigation__list>li.navigation__item*2+li.navigation__item--arrow-down+li.navigation__item*2+li.navigation__item--cyan-button)```
 
 ![form](images/form.jpg)
 
