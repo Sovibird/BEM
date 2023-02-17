@@ -11,3 +11,4 @@
 ![card](images/card.png)
 
 ![promo](images/promo.png)
+```section.promo>div.promo__wrapper>img.promo__photo+div.promo__text-wrapper>h2.promo__text-heading+p.promo__text+a.promo__link--underscore```
