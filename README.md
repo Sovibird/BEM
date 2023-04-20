@@ -11,6 +11,7 @@
 ```section.form>p.form__motto+h2.form__title+div.form__wrapper>input.form__input+button.form__button```
 
 ![card](images/card.jpg)
+```div.card>img.card__image+div.card__text>p.card__title--orange+a.card__link+p.card__creation-date```
 
 ![promo](images/promo.jpg)
 ```section.promo>div.promo__wrapper>img.promo__photo+div.promo__text-wrapper>h2.promo__text-heading+p.promo__text+a.promo__link--underscore```
